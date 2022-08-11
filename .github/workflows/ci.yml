@@ -37,8 +37,8 @@ jobs:
           # Whether the compiler should be added to PATH
           add-to-path: true # optional, default is true
 
-      - name: Install package
-        run: nimble install -Y
+      - name: Build package
+        run: nimble c src/matrix.nim
 
   test-c:
     # The type of runner that the job will run on
