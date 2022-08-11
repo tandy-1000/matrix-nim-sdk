@@ -4,7 +4,7 @@
 A [Matrix](https://matrix.org/) library for the [client-server](https://matrix.org/docs/spec/client_server/r0.6.1.html) and [appservice](https://matrix.org/docs/spec/application_service/r0.1.2.html) API's written in [Nim](https://nim-lang.org)!
 
 ## Status
-- This is a maintained fork of @dylhack's Matrix Nim SDK.
+ - This is a maintained fork of [@dylhack](https://github.com/dylhack/)'s Matrix Nim SDK.
  - We are currently targetting **v1.3** of the Matrix specification, development will happen on the *devel* branch, and hopefully stable support will emerge on the *v1.3* branch.
  - Not ready for production. The library is actively worked on and there will be a version one released when it's ready for general use.
 
